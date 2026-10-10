@@ -14,5 +14,6 @@
 
 Assembly-CSharp.dll ПЕРЕНЕСИ С ЗАМЕНОЙ ФАЙЛОВ В ПАПКУ SteamLibrary\steamapps\common\Nate Hand Gesture Demo\nate hand gesture_Data\Managed
 
-
+Обновлено 10.10.2026
+мелкие изменения
 
